@@ -1,2 +1,2 @@
 # iAdInterstitialViewController
-iAdInterstitialViewController provides a framework so that you can show interstitial ads via iAd without having to write the same code over, and over again! 
+iAdInterstitialViewController provides a view controller class which implements ADInterstitialAdDelegate so that you can show interstitial ads via iAd without having to write the same code over, and over again! It also includes a close button for the interstitials, which can be found in the Images.xcassets file under "Close" and must be added to your project along with the iAdInterstitialViewController.swift class. Enjoy!
